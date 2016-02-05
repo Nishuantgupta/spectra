@@ -7,10 +7,10 @@
   #      - /home/ubuntu/your-app-name/app/build/outputs/apk/
 
 machine:
-    xcode:
-        version: 7.2
-    environment:
-	 XCODE_SCHEME: SpectraCoat
-    	DEVELOPER_NAME: 'iPhone Distribution: Takahiro Horikawa (HSM2AYDCY3)'
-    	APPNAME: SpectraCoat
+xcode:
+version: 7.2
+environment:
+XCODE_SCHEME: SpectraCoat
+DEVELOPER_NAME: 'iPhone Distribution: Takahiro Horikawa (HSM2AYDCY3)'
+APPNAME: SpectraCoat
 
