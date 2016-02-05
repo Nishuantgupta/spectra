@@ -1242,7 +1242,7 @@
 		90DE56161801036A00D17FB3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Providing System Solutions, Inc. (9JVX2HUDK6)";
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Providing System Solutions, Inc. (9JVX2HUDK6)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1252,6 +1252,7 @@
 				GCC_PREFIX_HEADER = "SpectraCoat/SpectraCoat-Prefix.pch";
 				INFOPLIST_FILE = "SpectraCoat/SpectraCoat-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.goibibo.Goibibo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "B56C4970-3BBB-4C34-9007-E513985BAF50";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B56C4970-3BBB-4C34-9007-E513985BAF50";
@@ -1262,7 +1263,7 @@
 		90DE56171801036A00D17FB3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Providing System Solutions, Inc. (9JVX2HUDK6)";
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Providing System Solutions, Inc. (9JVX2HUDK6)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1272,6 +1273,7 @@
 				GCC_PREFIX_HEADER = "SpectraCoat/SpectraCoat-Prefix.pch";
 				INFOPLIST_FILE = "SpectraCoat/SpectraCoat-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.goibibo.Goibibo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "B56C4970-3BBB-4C34-9007-E513985BAF50";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B56C4970-3BBB-4C34-9007-E513985BAF50";
