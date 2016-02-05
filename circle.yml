@@ -1,0 +1,11 @@
+#
+# Build configuration for Circle CI
+#
+
+#general:
+ #   artifacts:
+  #      - /home/ubuntu/your-app-name/app/build/outputs/apk/
+
+machine:
+    xcode:
+        version: 7.2
